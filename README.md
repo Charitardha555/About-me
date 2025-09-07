@@ -7,7 +7,7 @@ Thank You for reaching my account
 
 Here I upload my various projects related to Cybersecurity and electronics
 
-All of my published repositories to date are private
+All of my published repositories to date are combined as private and public
 
 LIVE REPO COUNT : 7
 
