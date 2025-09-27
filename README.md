@@ -10,7 +10,7 @@ Here I upload my various projects related to Cybersecurity and Electronics
 All of my published repositories to date are combined as private and public
 
 ---
-## LIVE REPO COUNT : 9
+## LIVE REPO COUNT : 12
 
 -- -.-- ..--.- ... --- -. --..-- ..--.- -.. .- - .- ..--.- .. ... ..--.- .--. .-. . -.-. .. --- ..- ... -.-.-- -.-.--
 
